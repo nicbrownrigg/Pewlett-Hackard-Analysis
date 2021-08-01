@@ -10,7 +10,7 @@ We have confirmed that there is going to be a major indeed shift in the company:
 
 - After creating the retiring titles csv, there appears to be 133,776 titles to fill for those retiring.
 
--A majority of which are in senior staff, technical leadership, or high-level engineering positions: we have 29,414 senior engineers, 28,250 for senior staff, 14,222 engineers, 12,243 staff, 4,502 technique leaders, 1,761 assistant engineers and two managers that are potentially retiring.
+- A majority of which are in senior staff, technical leadership, or high-level engineering positions: we have 29,414 senior engineers, 28,250 for senior staff, 14,222 engineers, 12,243 staff, 4,502 technique leaders, 1,761 assistant engineers and two managers that are potentially retiring.
 
 This could be a huge blow to our workforce and with a majority of these staffing positions being very technical or high-level in terms of experience needed we need to invest heavily into our mentor ship program to try to move employees into these positions as fast as possible.
 
